@@ -1,0 +1,4 @@
+rootProject.name = 'gdl'
+include 'db'
+include 'service'
+include 'api'
